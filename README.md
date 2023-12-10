@@ -1,1 +1,26 @@
-# BTH-Clone
+
+apt uninstall python
+
+apt install python
+
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pip install requests
+
+pip install mechanize
+
+pip install bs4
+
+pkg install git
+
+pip install rich
+
+git clone https://github.com/BDTermuxHacker12/BTH-Clone.git
+
+cd BTH-Clone
+
+python rifat.py

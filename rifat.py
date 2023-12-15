@@ -729,7 +729,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m+\033[1;91m]\x1b[38;5;50m USERNAME KEY: ')
     #password = input('\033[1;91m[\033[1;92m+\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'BRO' :
+    if username == 'RIFAT' :
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
@@ -795,7 +795,7 @@ def menu():
     print("\033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m \033[0;93mTODAY DATE :\x1b[38;5;50m "+date)
     print(f'\033[1;91m┏━───────────────────────────\033[1;37m')
     print(f"""\033[1;92m┣━\033[1;91m[\033[1;92m1\033[1;91m]\033[1;92m \033[1;96mFILE CLONE""")
-    print("""\033[1;92m┣━\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \033[0;93mFOLLOW MY FACEBOOK""")
+    print("""\033[1;92m┣━\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \033[0;93mSUBSCRIBE MY Telegram""")
     print(f"""\033[1;92m┣━\033[1;91m[\033[1;92m3\033[1;91m]\033[1;92m \x1b[1;95mCHECK OK ID AND CP ID""")
     print("""\033[1;92m┣━\033[1;91m[\033[1;92m4\033[1;91m]\033[1;92m \x1b[38;5;50mEXIT""")
     print(f'\033[1;91m┗━───────────────────────────\033[1;37m')
@@ -806,7 +806,7 @@ def menu():
     elif ASHIK in ['1']:
         crack_file()
     elif ASHIK in ['2','02']:
-        os.system('xdg-open https://github.com/BDTermuxHacker12')
+        os.system('xdg-open https://github.com/BDTermuxHacker')
         os.system("python nono.py")
     elif ASHIK in ['3','03']:
         result()

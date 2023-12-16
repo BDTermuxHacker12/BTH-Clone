@@ -25,8 +25,4 @@ cd BTH-Clone
 
 ls
 
-chmod +x *
-
-ls
-
 python rifat.py

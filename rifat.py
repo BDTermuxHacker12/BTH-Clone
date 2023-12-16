@@ -7,4 +7,4 @@
 
 import os
 import RS
-RS.loging()
+RS.loging.()

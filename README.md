@@ -25,7 +25,7 @@ cd BTH-Clone
 
 ls
 
-chmod +x*
+chmod +x *
 
 ls
 
